@@ -1,0 +1,26 @@
+RCBot	KEYWORD1
+setMotor	KEYWORD1
+setMotors	KEYWORD1
+setSensor	KEYWORD1
+setLineColour	KEYWORD1
+setPID	KEYWORD1
+setMotorSpeed	KEYWORD1
+SonarSet	KEYWORD1
+
+GetLine		KEYWORD1
+GetLineError		KEYWORD1
+SonarRaw		KEYWORD1
+
+Forward	LITERAL1
+Backward	LITERAL1
+Right	LITERAL1
+Left	LITERAL1
+Stop	LITERAL1
+LineFollow	LITERAL1
+ForwardUntilAllBlack	LITERAL1
+BackwardUntilAllBlack	LITERAL1
+ForwardUntilAllWhite	LITERAL1
+BackwardUntilAllWhite	LITERAL1
+RightCorretlyToLine	LITERAL1
+LeftCorrectlyToLine	LITERAL1
+WallFollow	LITERAL1
